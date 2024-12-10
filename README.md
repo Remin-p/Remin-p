@@ -1,4 +1,4 @@
-<h1 align="center">Lisa G.S.</h1>
+<h1 align="center">L. G.S.</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lisa-gs/" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/lisa-gs/" target="_blank"> -->
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:lisa.gs2024@outlook.com" target="_blank">
