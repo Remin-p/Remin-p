@@ -1,4 +1,4 @@
-<h1 align="center">L. G.S.</h1>
+<h1 align="center">Lisa G.S.</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-<!--   <a href="https://www.linkedin.com/in/lisa-gs/" target="_blank"> -->
+  <a href="https://www.linkedin.com/in/lisa-gs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:lisa.gs2024@outlook.com" target="_blank">
@@ -19,9 +19,16 @@
   </a>
 </div>
 
+###
 
+<div align="center">
+  <a href="https://www.credly.com/earner/earned/badge/1057ed97-4269-41b5-b67d-78d532c77eaf" target="_blank">
+    <img src="https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="160" alt="AWS Certified Cloud Practitioner"/>
+  </a>
+</div>
 
 <!---
+https://www.credly.com/earner/earned/badge/1057ed97-4269-41b5-b67d-78d532c77eaf
 - 👋 Hi, I’m @Remin-p
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
